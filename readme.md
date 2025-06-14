@@ -55,6 +55,6 @@ Read more about object detection model used, working of the algorithm, and devel
 
 ------------------------------------------
 
-      $ python simulation.py
+
 
 
